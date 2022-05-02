@@ -1,0 +1,17 @@
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\bin\Debug\net6.0\CEABS.Infrastructure.deps.json
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\bin\Debug\net6.0\CEABS.Infrastructure.runtimeconfig.json
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\bin\Debug\net6.0\CEABS.Infrastructure.dll
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\bin\Debug\net6.0\ref\CEABS.Infrastructure.dll
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\bin\Debug\net6.0\CEABS.Infrastructure.pdb
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\bin\Debug\net6.0\CEABS.Domain.dll
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\bin\Debug\net6.0\CEABS.Domain.pdb
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\obj\Debug\net6.0\CEABS.Infrastructure.csproj.AssemblyReference.cache
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\obj\Debug\net6.0\CEABS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\obj\Debug\net6.0\CEABS.Infrastructure.AssemblyInfoInputs.cache
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\obj\Debug\net6.0\CEABS.Infrastructure.AssemblyInfo.cs
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\obj\Debug\net6.0\CEABS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\obj\Debug\net6.0\CEABS.Infrastructure.csproj.CopyComplete
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\obj\Debug\net6.0\CEABS.Infrastructure.dll
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\obj\Debug\net6.0\ref\CEABS.Infrastructure.dll
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\obj\Debug\net6.0\CEABS.Infrastructure.pdb
+C:\Estudos\c#\CEABS\CEABS.Infrastructure\obj\Debug\net6.0\CEABS.Infrastructure.genruntimeconfig.cache

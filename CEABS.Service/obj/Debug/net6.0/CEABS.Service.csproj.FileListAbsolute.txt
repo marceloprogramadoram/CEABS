@@ -1,0 +1,17 @@
+C:\Estudos\c#\CEABS\CEABS.Service\bin\Debug\net6.0\CEABS.Service.deps.json
+C:\Estudos\c#\CEABS\CEABS.Service\bin\Debug\net6.0\CEABS.Service.dll
+C:\Estudos\c#\CEABS\CEABS.Service\bin\Debug\net6.0\ref\CEABS.Service.dll
+C:\Estudos\c#\CEABS\CEABS.Service\bin\Debug\net6.0\CEABS.Service.pdb
+C:\Estudos\c#\CEABS\CEABS.Service\bin\Debug\net6.0\CEABS.Domain.dll
+C:\Estudos\c#\CEABS\CEABS.Service\bin\Debug\net6.0\CEABS.Infrastructure.dll
+C:\Estudos\c#\CEABS\CEABS.Service\bin\Debug\net6.0\CEABS.Infrastructure.pdb
+C:\Estudos\c#\CEABS\CEABS.Service\bin\Debug\net6.0\CEABS.Domain.pdb
+C:\Estudos\c#\CEABS\CEABS.Service\obj\Debug\net6.0\CEABS.Service.csproj.AssemblyReference.cache
+C:\Estudos\c#\CEABS\CEABS.Service\obj\Debug\net6.0\CEABS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\c#\CEABS\CEABS.Service\obj\Debug\net6.0\CEABS.Service.AssemblyInfoInputs.cache
+C:\Estudos\c#\CEABS\CEABS.Service\obj\Debug\net6.0\CEABS.Service.AssemblyInfo.cs
+C:\Estudos\c#\CEABS\CEABS.Service\obj\Debug\net6.0\CEABS.Service.csproj.CoreCompileInputs.cache
+C:\Estudos\c#\CEABS\CEABS.Service\obj\Debug\net6.0\CEABS.Service.csproj.CopyComplete
+C:\Estudos\c#\CEABS\CEABS.Service\obj\Debug\net6.0\CEABS.Service.dll
+C:\Estudos\c#\CEABS\CEABS.Service\obj\Debug\net6.0\ref\CEABS.Service.dll
+C:\Estudos\c#\CEABS\CEABS.Service\obj\Debug\net6.0\CEABS.Service.pdb

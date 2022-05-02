@@ -1,0 +1,33 @@
+version: '3.4'
+volumes:
+  ecommerceData:
+     driver: local
+networks:
+  backends:
+     driver: bridge
+services:
+  postgresCeabs:
+     image: postgres:latest
+     restart: always
+     environment:
+        POSTGRES_PASSWORD: 12345
+        POSTGRES_DB: ceabsDB
+        POSTGRES_USER: postgres
+     ports:
+        - 5432:5432
+     networks:
+        - backends
+     volumes:
+        - ecommerceData:/var/lib/postgres/data/
+  api:
+     build:
+        dockerfile: Dockerfile
+        context: .
+     depends_on:
+        - "postgresCeabs"
+     ports:
+        - 8080:80
+     environment:
+        DB_CONNECTION_STRING: "Host=postgresCeabs;Port=5432;Pooling=true;Database=ceabsDB;User Id=postgres;Password=12345;"
+     networks:
+        - backends

@@ -1,0 +1,12 @@
+C:\Estudos\c#\CEABS\CEABS.Domain\bin\Debug\net6.0\CEABS.Domain.deps.json
+C:\Estudos\c#\CEABS\CEABS.Domain\bin\Debug\net6.0\CEABS.Domain.dll
+C:\Estudos\c#\CEABS\CEABS.Domain\bin\Debug\net6.0\ref\CEABS.Domain.dll
+C:\Estudos\c#\CEABS\CEABS.Domain\bin\Debug\net6.0\CEABS.Domain.pdb
+C:\Estudos\c#\CEABS\CEABS.Domain\obj\Debug\net6.0\CEABS.Domain.csproj.AssemblyReference.cache
+C:\Estudos\c#\CEABS\CEABS.Domain\obj\Debug\net6.0\CEABS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\c#\CEABS\CEABS.Domain\obj\Debug\net6.0\CEABS.Domain.AssemblyInfoInputs.cache
+C:\Estudos\c#\CEABS\CEABS.Domain\obj\Debug\net6.0\CEABS.Domain.AssemblyInfo.cs
+C:\Estudos\c#\CEABS\CEABS.Domain\obj\Debug\net6.0\CEABS.Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\c#\CEABS\CEABS.Domain\obj\Debug\net6.0\CEABS.Domain.dll
+C:\Estudos\c#\CEABS\CEABS.Domain\obj\Debug\net6.0\ref\CEABS.Domain.dll
+C:\Estudos\c#\CEABS\CEABS.Domain\obj\Debug\net6.0\CEABS.Domain.pdb
